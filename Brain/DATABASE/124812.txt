@@ -1,0 +1,5 @@
+   In Python, variables are like labeled boxes for storing data.
+
+You create them by giving a name and assigning a value, like saying "put this in that box."  
+
+

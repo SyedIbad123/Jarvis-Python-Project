@@ -1,0 +1,26 @@
+Haan, yah ek limitation hai.
+
+Notepad ek basic text editor hai, aur ismein bahut sare features nahi hain.
+
+Isliye, ismein kholne mein thoda sa time lag sakta hai.
+
+Notepad ko thoda jaldi kholne ke liye aap kuchh cheezein kar sakte hain:
+
+  Notepad ko ek shortcut bana kar dein.
+
+Notepad ko startup mein open karne ke liye set kar dein.
+
+Notepad ko ek lightweight text editor se badal dein.
+
+Yahan kuchh lightweight text editors hain jo Notepad se jaldi kholte hain:
+
+  Sublime Text
+  Atom
+  VS Code
+
+Aap apne computer mein pre-installed text editor ka bhi use kar sakte hain.
+
+Jaise ki, Windows mein Notepad++, aur macOS mein TextEdit.
+
+Umeed hai ki yah madadgar tha!
+

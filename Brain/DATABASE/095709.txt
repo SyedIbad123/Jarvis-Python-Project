@@ -1,0 +1,44 @@
+Operator precedence ek programming language ki syntax ka ek bahut hi zaroori hissa hai.
+
+Yah is baat ka niyantran karta hai ki operators ko code mein kaise evaluate kiya jata hai.
+
+Operator precedence ki definition programming language ke compiler ya interpreter mein hoti hai.
+
+In general, operator precedence ko ek table mein define kiya jata hai.
+
+Is table mein operators ko unki precedence ke hisab se arrange kiya jata hai.
+
+Jiski precedence adhik hogi, use pahle evaluate kiya jayega.
+
+Yahan kuchh basic operator precedence rules hain:
+
+  Exponentiation (^) ki precedence sabse adhik hoti hai.
+
+Multiplication ( ), division (/), modulus (%) aur addition (+) ki precedence ek hi hoti hai.
+
+Subtraction (-) ki precedence in operators se kam hoti hai.
+
+Agar ek expression mein ek se adhik operators hote hain, to unka evaluation is precedence ke anusar kiya jata hai.
+
+Yahan kuchh examples hain:
+
+```python
+a = 1 + 2   3
+# a = 7
+
+b = 5 ^ 2   3
+# b = 75
+
+c = 10 / 2 + 3
+# c = 8
+
+d = 10 - 2   3
+# d = -4
+```
+
+In examples mein, operator precedence ka use isliye kiya gaya hai ki expression ka correct value evaluate ho sake.
+
+Operator precedence programming language ki syntax ka ek bahut hi zaroori hissa hai.
+
+Yah programming language ko clear aur efficient banane mein madad karta hai.
+

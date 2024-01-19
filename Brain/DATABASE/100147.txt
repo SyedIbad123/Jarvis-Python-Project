@@ -1,0 +1,6 @@
+Objects: Bundles of data & actions, like actors with costumes and plays.
+
+Programs built by combining these actors, telling their stories.
+
+
+
